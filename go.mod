@@ -1,4 +1,4 @@
-module github.com/sivaprasadreddy/hello-go
+module github.com/sivaprasadreddy/golang_practice
 
 go 1.14
 
